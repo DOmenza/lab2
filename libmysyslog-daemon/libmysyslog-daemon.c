@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include "libmysyslog.h"
 
-#define CONFIG_PATH "/etc/mysyslog/mysyslog.cfg"
+#define CONFIG_PATH "/etc/libmysyslog-daemon/configexample.cfg"
 
 static volatile int keepRunning = 1;
 
